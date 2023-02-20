@@ -1,4 +1,4 @@
-# Analyst_project
+# E-commerce project
 E-commerce project: python, pandas, matplotlib, seaborn, RFM-anlysis, cohort anaysis
 
 Проект e-commerce: вариант 1 
